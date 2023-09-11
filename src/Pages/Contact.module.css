@@ -1,0 +1,14 @@
+form input {
+  border-color: transparent;
+  border-bottom: 1px solid #5e5b5b;
+  outline: none;
+}
+
+form label {
+  color: #1abc9c;
+}
+
+button {
+    background-color: #1abc9c !important;
+    color: #fff !important;
+}

@@ -1,0 +1,13 @@
+nav {
+  background-color: #2c3e50;
+}
+
+nav .nav-link {
+  color: #fff !important;
+}
+
+ul .nav-item {
+  background-color: #1abc9c !important;
+}
+
+

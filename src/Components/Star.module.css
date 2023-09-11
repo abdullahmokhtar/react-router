@@ -1,0 +1,47 @@
+.icon {
+  position: relative;
+}
+
+.icon::before {
+  position: absolute;
+  right: 140%;
+  bottom: 40%;
+  content: "";
+  width: 100px;
+  height: 4px;
+  background-color: #fff;
+}
+
+.icon::after {
+  position: absolute;
+  left: 140%;
+  bottom: 40%;
+  content: "";
+  width: 100px;
+  height: 4px;
+  background-color: #fff;
+}
+
+.icon-grey {
+  position: relative;
+}
+
+.icon-grey::before {
+  position: absolute;
+  right: 140%;
+  bottom: 40%;
+  content: "";
+  width: 100px;
+  height: 4px;
+  background-color: #2c3e50;
+}
+
+.icon-grey::after {
+  position: absolute;
+  left: 140%;
+  bottom: 40%;
+  content: "";
+  width: 100px;
+  height: 4px;
+  background-color: #2C3E50;
+}
